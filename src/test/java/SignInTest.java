@@ -53,7 +53,7 @@ public class SignInTest extends BaseTest {
         //заполняем форму и получаем результат
         boolean actual = signInBase.signInMainPage();
         assertTrue(actual);
-
+//
     }
 
 }
